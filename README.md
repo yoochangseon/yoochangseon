@@ -1,4 +1,9 @@
-### Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yoo%20Chang-Seon&fontSize=70&animation=fadeIn)
+
+<h3 align="center">💻 Tech Stack 💻</h3>
+
+<p align="center"> 🌱 I'm currently learning </p>
 
 <!--
 **yoochangseon/yoochangseon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
