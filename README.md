@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yoo%20Chang-Seon&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Junior%20Back-end%20Developer&descAlignY=65&descAlign=76)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yoo%20Chang-Seon&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Junior%20Back-end%20Developer&descAlignY=65&descAlign=50)
 
 <h3 align="center">💻 Tech Stack 💻</h3>
 
