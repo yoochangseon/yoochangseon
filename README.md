@@ -11,16 +11,18 @@
 </p>
 <br>
 <h3 align="center"> 🤔 I've used at least once </p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/elasticsearch-d7689d?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
-<p align="center"> 
-
 </p>
-![yoochangseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoochangseon&show_icons=true&theme=blueberry)
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoochangseon&show_icons=true&theme=blueberry)
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=plusminus54)](https://solved.ac/plusminus54)
 
 
 <!--
