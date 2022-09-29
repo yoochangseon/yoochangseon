@@ -6,8 +6,15 @@
 <p align="center"> 🌱 I'm currently learning </p>
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-5382a1?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Mysql-00758F?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
 </p>
+
+![yoochangseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoochangseon&show_icons=true&theme=default)
+
+
 <!--
 **yoochangseon/yoochangseon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
